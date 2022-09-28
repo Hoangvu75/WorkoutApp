@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable-v24/item_circular_thin_color_accent_border.xml" value="0.1375" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/circular_progress_bar.xml" value="0.121" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/circular_progress_gray.xml" value="0.1" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/circular_progress_grey.xml" value="0.121" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.1375" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/drawable_units_tab_selector.xml" value="0.1375" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/drawable_units_tab_text_color_selector.xml" value="0.1375" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/ic_action_done.xml" value="0.1375" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/ic_baseline_check_circle.xml" value="0.1375" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1375" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.121" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.121" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.121" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.1375" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.121" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/layout-v28/date_time_item.xml" value="0.17447916666666666" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/layout/activity_bmi.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/layout/activity_exercise.xml" value="0.22" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/layout/activity_finish.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/layout/activity_history.xml" value="0.14130434782608695" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/layout/date_time_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/WorkOutApp/app/src/main/res/layout/item_exercise_status.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

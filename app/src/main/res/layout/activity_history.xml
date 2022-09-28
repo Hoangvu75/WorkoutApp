@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HistoryActivity"
+    android:orientation="vertical"
+    android:id="@+id/llHistory">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarHistoryActivity"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="match_parent"
+        android:theme="@style/ToolbarTheme"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@color/white"
+        app:titleTextColor="@color/black"
+        app:title="History"/>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Exercise completed"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="@color/purple_500"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbarHistoryActivity" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/dateTimeList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:foregroundGravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        tools:listitem="@layout/date_time_item"/>
+
+    <Button
+        style="@style/Widget.Material3.Button.OutlinedButton"
+        app:strokeColor="@color/purple_500"
+        app:strokeWidth="3dp"
+        android:id="@+id/btnClearData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Clear Data"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</LinearLayout>
